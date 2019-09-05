@@ -18,8 +18,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter 001',
       theme: ThemeData(
+        // Hot-fix Branch add No.1
         // This is the theme of your application.
-
         // 這是我修改的第二次
         // 這是我修改的第五次
         primarySwatch: Colors.blue,
