@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter 001',
       theme: ThemeData(
         // This is the theme of your application.
-        
+        // 這是我修改的
         primarySwatch: Colors.blue,
       ),
       //home: MyHomePage(title: 'Action Flutter Demo Home Page'),
